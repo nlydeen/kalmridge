@@ -1,0 +1,19 @@
+name: adaptive-ki
+channels:
+  - defaults
+  - r
+dependencies:
+  - dask
+  - importlib_metadata
+  - matplotlib
+  - netcdf4
+  - numba
+  - numpy
+  - pandas
+  - python
+  - r-glmnet
+  - r-glmnetutils
+  - rpy2
+  - scipy
+  - tqdm
+  - xarray
