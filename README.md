@@ -1,6 +1,6 @@
-# Adaptive KI
+# KalmRidge
 
-This repository contains an implementation of the adaptive Kalman inversion algorithm.
+This repository contains an implementation of the KalmRidge.
 Prerequisite packages are listed in a Conda environment file.
 Install Conda (if necessary), then execute `conda env create -f environment.yml`.
 
